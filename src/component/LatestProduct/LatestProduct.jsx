@@ -19,6 +19,16 @@ const LatestProduct = () => {
           <h2 className="font-medium py-2 px-2 text-sm text-slate-500">
             Summer Friendly Comfortable Sneakers For Men – US-65
           </h2>
+          <div className="flex justify-between items-center px-2">
+            <div className="flex gap-2 font-medium py-2  text-xl text-slate-500">
+              <h3 className="text">$330</h3>
+              <h3 className="text-cyan-400">$250</h3>
+            </div>
+            <div className="flex gap-2 items-center font-medium text-xl">
+              <h1 className="text-slate-500">Rating :</h1>
+              <h3 className=" text-4xl mt-3 text-yellow-400">*****</h3>
+            </div>
+          </div>
         </div>
       </div>
     </div>
