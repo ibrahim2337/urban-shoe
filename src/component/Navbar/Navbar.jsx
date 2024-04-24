@@ -1,4 +1,4 @@
-import logo_image from "../../assets/Screenshot_2024-04-23_235244-removebg-preview.png";
+import logo_image from "../../assets/logo/Screenshot_2024-04-23_235244-removebg-preview.png";
 import { IoIosPhonePortrait } from "react-icons/io";
 import { FaCartPlus } from "react-icons/fa";
 import { CgProfile } from "react-icons/cg";
