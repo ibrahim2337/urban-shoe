@@ -19,7 +19,7 @@ const Navbar = () => {
               </h1>
             </div>
             <div>
-              <h2 className="text-sm font-bold">01748-907164</h2>
+              <h2 className="text-md font-bold text-cyan-400">01748-907164</h2>
             </div>
           </div>
 

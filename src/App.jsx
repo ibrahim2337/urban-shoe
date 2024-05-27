@@ -4,6 +4,7 @@ import LatestProduct from "./component/LatestProduct/LatestProduct";
 import Navbar from "./component/Navbar/Navbar";
 import NewProducts from "./component/NewProducts/NewProducts";
 import SellOff from "./component/SellOff/SellOff";
+import QualityShoe from "./pages/QualityShoe/QualityShoe";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <LatestProduct />
       <SellOff />
       <NewProducts />
+      <QualityShoe />
     </div>
   );
 }

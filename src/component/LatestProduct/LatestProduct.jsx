@@ -9,7 +9,7 @@ const LatestProduct = () => {
   // const [isHovered, setIsHovered] = useState(false);
   return (
     <div className="my-10">
-      <div className="grid  lg:grid-cols-6 lg:gap-1 gap-5 px-5">
+      <div className="grid  lg:grid-cols-6 lg:gap-1 gap-5 px-5 lg:px-0">
         <div className="bg-stone-800 py-10">
           <h1 className="text-white text-4xl text-center font-bold">
             Best seller

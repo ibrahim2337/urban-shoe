@@ -212,6 +212,11 @@ const SellOff = () => {
             </div>
           </div>
         </div>
+
+        
+      </div>
+      <div className="flex items-center justify-center pt-10">
+      <button className="bg-cyan-400 px-5 py-2 text-white font-bold text-lg uppercase rounded">See All</button>
       </div>
     </div>
   );
