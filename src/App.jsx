@@ -9,7 +9,7 @@ import QualityShoe from "./pages/QualityShoe/QualityShoe";
 
 function App() {
   return (
-    <div>
+    <div className="">
       <Navbar />
       <Banner />
       <LatestProduct />
