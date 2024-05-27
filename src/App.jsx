@@ -1,4 +1,5 @@
 import Banner from "./component/Banner/Banner";
+import Footer from "./component/Footer/Footer";
 import LatestProduct from "./component/LatestProduct/LatestProduct";
 // import MainNavbar from "./component/Navbar/MainNavbar";
 import Navbar from "./component/Navbar/Navbar";
@@ -15,6 +16,7 @@ function App() {
       <SellOff />
       <NewProducts />
       <QualityShoe />
+      <Footer />
     </div>
   );
 }
