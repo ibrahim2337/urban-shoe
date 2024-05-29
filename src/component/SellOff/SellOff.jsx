@@ -16,7 +16,7 @@ const SellOff = () => {
         <div className=" bg-slate-100">
           <div className="border">
             <p className="absolute justify-center bg-cyan-400 text-white  px-[20px] py-[3px] font-bold text-md">
-              NEW
+              30%
             </p>
             <img src={product1} alt="" />
           </div>
@@ -41,7 +41,7 @@ const SellOff = () => {
         <div className=" bg-slate-100">
           <div className="border">
             <p className="absolute justify-center bg-cyan-400 text-white  px-[20px] py-[3px] font-bold text-md">
-              NEW
+              30%
             </p>
             <img src={product2} alt="" />
           </div>
@@ -66,7 +66,7 @@ const SellOff = () => {
         <div className=" bg-slate-100">
           <div className="border">
             <p className="absolute justify-center bg-cyan-400 text-white  px-[20px] py-[3px] font-bold text-md">
-              NEW
+              30%
             </p>
             <img src={product3} alt="" />
           </div>
@@ -91,7 +91,7 @@ const SellOff = () => {
         <div className=" bg-slate-100">
           <div className="border">
             <p className="absolute justify-center bg-cyan-400 text-white  px-[20px] py-[3px] font-bold text-md">
-              NEW
+              30%
             </p>
             <img src={product1} alt="" />
           </div>
@@ -116,7 +116,7 @@ const SellOff = () => {
         <div className=" bg-slate-100">
           <div className="border">
             <p className="absolute justify-center bg-cyan-400 text-white  px-[20px] py-[3px] font-bold text-md">
-              NEW
+              30%
             </p>
             <img src={product2} alt="" />
           </div>
@@ -141,7 +141,7 @@ const SellOff = () => {
         <div className=" bg-slate-100">
           <div className="border">
             <p className="absolute justify-center bg-cyan-400 text-white  px-[20px] py-[3px] font-bold text-md">
-              NEW
+              30%
             </p>
             <img src={product3} alt="" />
           </div>
@@ -166,7 +166,7 @@ const SellOff = () => {
         <div className=" bg-slate-100">
           <div className="border">
             <p className="absolute justify-center bg-cyan-400 text-white  px-[20px] py-[3px] font-bold text-md">
-              NEW
+              30%
             </p>
             <img src={product1} alt="" />
           </div>
@@ -191,7 +191,7 @@ const SellOff = () => {
         <div className=" bg-slate-100">
           <div className="border">
             <p className="absolute justify-center bg-cyan-400 text-white  px-[20px] py-[3px] font-bold text-md">
-              NEW
+              30%
             </p>
             <img src={product2} alt="" />
           </div>

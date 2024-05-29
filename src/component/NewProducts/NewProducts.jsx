@@ -12,7 +12,7 @@ const NewProducts = () => {
           / new products .
         </h1>
       </div>
-      <div className="grid lg:grid-cols-4 gap-5 lg:px-28 px-5 mt-10">
+      <div className="grid lg:grid-cols-4 grid-cols-2 gap-5 lg:px-28 px-5 mt-10">
         <div className=" bg-slate-100">
           <div className="border">
             <p className="absolute justify-center bg-cyan-400 text-white  px-[20px] py-[3px] font-bold text-md">
